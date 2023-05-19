@@ -109,7 +109,7 @@ To get all products, send a GET request to `/api/list`.
 
 ### Adding a product to the shopping cart
 
-Para adicionar um produto ao shopping cart mande um Post request para `/api/shoppingcart/{shoppingcartId}/addproduct/{productId}` with the following JSON payload: 
+To add a product to the shopping cart send a Post request to `/api/shoppingcart/{shoppingcartId}/addproduct/{productId}` with the following JSON payload: 
 
 ```json
 {
