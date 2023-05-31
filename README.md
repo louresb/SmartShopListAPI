@@ -11,6 +11,8 @@ This is a shopping list application developed using C#, .NET, and ASP.NET. It al
 - Create, read, update, and delete products.
 - Create, read, update, and delete shopping carts.
 - Add and remove products from shopping carts.
+- Add and remove shopping carts from shopping lists.
+- Update the quantity of a product in a shopping cart.
 - Calculate the total price of shopping lists and shopping carts.
 
 ## Technologies Used
